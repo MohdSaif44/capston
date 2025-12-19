@@ -1,4 +1,4 @@
-# AI-Powered PPE Compliance & Access Control System
+# 🛡️ AI-Powered PPE Compliance & Access Control System
 
 **A real-time Computer Vision system that enforces safety gear compliance before granting physical access.**
 
@@ -6,7 +6,7 @@ This project integrates **Deep Learning (YOLOv11)** with **Heuristic Image Proce
 
 ---
 
-## Key Features
+## 🚀 Key Features
 
 * **Real-Time Detection:** Utilizes **YOLOv11** for high-speed detection of Persons, Helmets, and Gloves.
 * **Advanced Logic Validation (Anti-Spoofing):**
@@ -19,10 +19,10 @@ This project integrates **Deep Learning (YOLOv11)** with **Heuristic Image Proce
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 * **Language:** Python 3.9+
-* **AI/ML:** Ultralytics YOLOv8
+* **AI/ML:** Ultralytics YOLOv11
 * **Computer Vision:** OpenCV (`cv2`), NumPy
 * **Frontend:** Streamlit (Custom CSS)
 * **IoT/Hardware:** ESP32 (Wi-Fi), Relay Module, 12V Solenoid Lock/Buzzer
@@ -34,8 +34,8 @@ This project integrates **Deep Learning (YOLOv11)** with **Heuristic Image Proce
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/MohdSaif44/capston.git
-    cd ppe-detection-system
+    git clone [https://github.com/yourusername/capston.git](https://github.com/yourusername/capston.git)
+    cd capston
     ```
 
 2.  **Install Dependencies**
