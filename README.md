@@ -3,15 +3,12 @@
 **A real-time Computer Vision system that enforces safety gear compliance before granting physical access.**
 
 This project integrates **Deep Learning (YOLOv11)** with **Heuristic Image Processing (OpenCV)** to create a robust safety checkpoint. It verifies not just the *presence* of safety gear, but its *correct usage* (e.g., helmet strictly on the head, specific gear colors) and triggers an IoT-enabled door lock via an ESP32 microcontroller upon compliance.
-
-## Demo
-
 <p align="center">
   <img src="demo.jpeg" alt="PPE Detection System Demo Dashboard" width="800"/>
   <br>
   <em>Figure 1: The real-time Streamlit dashboard showing detection status.</em>
 </p>
-
+---
 ## 🚀 Key Features
 
 * **Real-Time Detection:** Utilizes **YOLOv11** for high-speed detection of Persons, Helmets, and Gloves.
