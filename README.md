@@ -34,7 +34,7 @@ This project integrates **Deep Learning (YOLOv11)** with **Heuristic Image Proce
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/ppe-detection-system.git](https://github.com/yourusername/ppe-detection-system.git)
+    git clone https://github.com/MohdSaif44/capston.git
     cd ppe-detection-system
     ```
 
