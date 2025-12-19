@@ -8,7 +8,9 @@ This project integrates **Deep Learning (YOLOv11)** with **Heuristic Image Proce
   <br>
   <em>Figure 1: The real-time Streamlit dashboard showing detection status.</em>
 </p>
+
 ---
+
 ## 🚀 Key Features
 
 * **Real-Time Detection:** Utilizes **YOLOv11** for high-speed detection of Persons, Helmets, and Gloves.
